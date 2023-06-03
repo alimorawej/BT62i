@@ -4,7 +4,7 @@
 
 ##  <p><b>"Bonyan Ertebat Sahand -farhikhtegan kish"</b></p>
   
- <p><b>Maket Name: <u>B L A C K  T O R N A D O</u></b></p>
+ <p><b>Maket Name: <u>BLACK  TORNADO</u></b></p>
  <p><b>Product Name: <u><i>Advance LTE Wi-Fi Gigabit Router</i></u></b></p>
  <p><b>Product Model:<u><i> BT62i</i></u></b></p>
 <br />
