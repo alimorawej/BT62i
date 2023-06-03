@@ -1,8 +1,11 @@
-# <img src="cpe_dev.png" width="134" height="75"> License
 
-<p><b>2021-2023 &copy Bestel Co.</b></p>
 
-<p>All rights reserved.</p>
+# License
+
+ <p><b>2021-2023 &copy BESTEL Co.- All rights reserved.</b></p>
+
+## <img src="cpe_dev.jpg" width="81" height="104"> BT62i 
+## <i>"Advance LTE Wi-Fi Gigabit Router"</i>
 <br />
 
 <p>THIS DOCUMENT IS PROVIDED BY THE COPYRIGHT HOLDERS "AS IS" AND ANY
